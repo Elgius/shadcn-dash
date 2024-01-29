@@ -27,7 +27,7 @@ This is a starter template using the following stack:
 - Forms - [React Hook Form](https://ui.shadcn.com/docs/components/form)
 - Linting - [ESLint](https://eslint.org)
 - Formatting - [Prettier](https://prettier.io)
-
+- DB - Supabase
 ## Pages
 
 | Pages                                                                             | Specifications                                                                                        |
@@ -54,3 +54,11 @@ npm run dev
 ```
 
 You should now be able to access the application at http://localhost:3000.
+
+
+Developer note: We are running on Version 1.0
+
+Roadmap:
+
+- 1.0 - Supabase integration
+- 2.0 - Auth integration
